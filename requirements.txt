@@ -1,0 +1,4 @@
+GitPython==3.1.14
+rich==10.1.0
+tornado==6.1
+arrow==1.0.3
